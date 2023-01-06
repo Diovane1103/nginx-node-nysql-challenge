@@ -1,5 +1,5 @@
-# docker + docker-compose + nginx + node + mysql
-Description : just funning with docker-compose
+# docker + docker-compose + nginx + node + mysql Challenge
+Description : Doing some crazy things with docker
 
 ## To run :
-docker-compose up --build -d
+docker-compose up -d --build
